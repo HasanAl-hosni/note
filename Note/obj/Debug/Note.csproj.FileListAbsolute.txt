@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Note\Note\bin\Debug\Note.exe.config
+C:\Users\HP\source\repos\Note\Note\bin\Debug\Note.exe
+C:\Users\HP\source\repos\Note\Note\bin\Debug\Note.pdb
+C:\Users\HP\source\repos\Note\Note\obj\Debug\Note.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Note\Note\obj\Debug\Note.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Note\Note\obj\Debug\Note.Form1.resources
+C:\Users\HP\source\repos\Note\Note\obj\Debug\Note.Properties.Resources.resources
+C:\Users\HP\source\repos\Note\Note\obj\Debug\Note.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Note\Note\obj\Debug\Note.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Note\Note\obj\Debug\Note.exe
+C:\Users\HP\source\repos\Note\Note\obj\Debug\Note.pdb
